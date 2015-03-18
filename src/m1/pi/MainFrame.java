@@ -68,9 +68,9 @@ public class MainFrame extends javax.swing.JFrame {
 
         jLabel1.setText("Selected contact :");
 
-        jLabel2.setText("Toto");
+        jLabel2.setText("Jonathan");
 
-        jLabel3.setText("Matoto");
+        jLabel3.setText("Joestar");
 
         org.jdesktop.layout.GroupLayout jPanel1Layout = new org.jdesktop.layout.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
